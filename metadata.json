@@ -1,0 +1,5 @@
+{
+  "name": "PUB Water Treatment AI-Copilot",
+  "description": "An AI-assisted decision support interface for water treatment operations, focusing on alarm intelligence, root cause analysis, and predictive asset health.",
+  "requestFramePermissions": []
+}
